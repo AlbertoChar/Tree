@@ -1,4 +1,4 @@
-# Tree
+# Tree/Data Structures
 
 From scratch java made tree data structure.
 Includes from scratch LIFO and FIFO data structures for the correct use of the different methods in the tree.
